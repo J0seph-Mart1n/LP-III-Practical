@@ -1,0 +1,7 @@
+This is a sample text file that contains some repeating patterns. 
+In this sample text, the word "sample" appears multiple times. 
+Let's see how the compression works on this sample text. 
+Compression will find repeating patterns and replace them with shorter codes. 
+The aim is to reduce the overall size of this text file while maintaining its content integrity.
+In addition, the word "text" appears several times as well.
+By testing this input, we can evaluate how well the data compression algorithm performs.
